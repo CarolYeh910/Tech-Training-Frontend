@@ -8,20 +8,20 @@ So I did learn many new things in this process.
 
 ---
 
-The core code is in 'src/components/Markdown'. The file consists of three parts.
+The core code is in `src/components/Markdown`. The file consists of three parts.
 
-The first part is HTML, marked by '<template>', which defines the layout of this webpage.
+The first part is HTML, marked by `<template>`, which defines the layout of this webpage.
 
-The second is JavaScript, marked by '<script>', which implements the main function and all the shortcuts.
+The second is JavaScript, marked by `<script>`, which implements the main function and all the shortcuts.
 
-And the third part is CSS, marked by '<style>', where the display style is set as you know.
+And the third part is CSS, marked by `<style>`, where the display style is set as you know.
 
 # Install
 ```
 # install node.js modules
 npm install
 
-# install 3 dependencies
+# install 3 dependent libs
 
 # translate Markdown into HTML
 npm install marked --save
@@ -37,7 +37,7 @@ npm install html2canvas jspdf --save
 ```
 npm run dev
 ```
-Then visit 'http://localhost:8080/' in your brower.
+Then visit `http://localhost:8080/ ` in your brower.
 
 # Demo
 As you see, the left side is a Markdown editor and the translated HTML page is displayed on the right.
@@ -57,15 +57,15 @@ We learnt related techniques(HTML, CSS and JavaScript) in 2 weeks from the engin
 
 They not only teached us basic grammar and usage of these programming languages,
 
-but also showed us how to make a better design iteratively.
+but also showed us how to make a scalable and reusable design and optimize the scheme iteratively.
 
-Thank you to all the organizers of this activity!!
+Thank you to all the organizers of this activity:heart:!!
 
-# Last
+# BTW
 Due to the limited time, this project still has a lot to improve.
 
 Meanwhile, I'm taking a course about making webpages in school this term.
 
 I believe I'll do better when I finish that course.
 
-Jingyun Ye, 3/14/2021
+BY Jingyun Ye(叶靖云), 3/14/2021
