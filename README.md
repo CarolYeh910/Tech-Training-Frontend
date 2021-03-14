@@ -1,6 +1,6 @@
 # Introduction
 
-This is an online Markdown editor built by Vue.
+This is an online Markdown editor built on Vue.
 
 And it's my first time to use Vue as well as Markdown(I only used LaTeX before).
 
@@ -34,6 +34,7 @@ npm install html2canvas jspdf --save
 ```
 
 # Run
+Open this directory in CMD and execute
 ```
 npm run dev
 ```
@@ -68,4 +69,4 @@ Meanwhile, I'm taking a course about making webpages in school this term.
 
 I believe I'll do better when I finish that course.
 
-BY Jingyun Ye(叶靖云), 3/14/2021
+BY Jingyun Ye(叶靖云),  3/14/2021
