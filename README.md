@@ -21,7 +21,7 @@ And the third part is CSS, marked by `<style>`, where the display style is set a
 # install node.js modules
 npm install
 
-# install 3 dependent libs
+# install 3 dependent libs as follows
 
 # translate Markdown into HTML
 npm install marked --save
@@ -37,7 +37,7 @@ npm install html2canvas jspdf --save
 ```
 npm run dev
 ```
-Then visit `http://localhost:8080/ ` in your brower.
+Then visit `http://localhost:8080/` in your brower.
 
 # Demo
 As you see, the left side is a Markdown editor and the translated HTML page is displayed on the right.
@@ -46,7 +46,7 @@ On the top are the shortcuts of common usage in case you forget it.
 
 Just choose the text and click the right button, the tags will be added automatically.
 
-Finally, you can click 'Save' at the top left corner to download the HTML page into a PDF file.
+Finally, you can click 'Save' at the top left corner to download the HTML page into 'Markdown.pdf'.
 
 ![demo](https://github.com/CarolYeh910/tech-training-camp-frontend/blob/main/src/assets/demo.png)
 
