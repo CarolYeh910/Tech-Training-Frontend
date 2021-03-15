@@ -38,7 +38,7 @@ Open this directory in CMD and execute
 ```
 npm run dev
 ```
-Then visit `http://localhost:8080/` in your brower.
+Then visit `http://localhost:8080/` in your browser.
 
 # Demo
 As you see, the left side is a Markdown editor and the translated HTML page is displayed on the right.
