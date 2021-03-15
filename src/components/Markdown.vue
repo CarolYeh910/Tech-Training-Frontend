@@ -85,7 +85,7 @@
       },
 
       Italic() {      //斜体
-        this.changeSelectedText("_","_")
+        this.changeSelectedText("*","*")
       },
 
       Underline() {   //下划线
